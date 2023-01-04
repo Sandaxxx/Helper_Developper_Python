@@ -12,7 +12,7 @@ banner = """
 |_| |_|_____|_____|_|   |_____|_| \_\ |____/_/   \_|_| \_|____/_/   \_/_/\_\ 
 """
 print(Fore.GREEN+banner)
-print(Fore.MAGENTA+'                         Developped by Sandax'+Fore.YELLOW+'\n                Github : https://github.com/Sandaxxx/ ')
+print(Fore.MAGENTA+'                         Developped by Sandax'+Fore.YELLOW+'\n                Github : https://github.com/Sandaxxx ')
 
 print()
 print(Fore.RED+"┌――――――┬―――――――――――――――――――┐")
