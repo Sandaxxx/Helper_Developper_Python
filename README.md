@@ -1,6 +1,4 @@
-# Helper_Developper_Python-
-For Help Developper. Install and have the doc of any python module in 2 clicks
-# **A RPC Discord For Custom Activity**
+# Helper_Developper_Python
 
 **The program was created to help developers quickly install modules or get module
 documentation instead of pausing and going to Google to search**
