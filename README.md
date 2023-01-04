@@ -13,5 +13,5 @@ documentation instead of pausing and going to Google to search**
 
 
 ## __Build__
-* [colorama](https://pypi.org/project/pypresence/)
+* [Colorama](https://pypi.org/project/pypresence/)
 * [Python](https://www.python.org/)
